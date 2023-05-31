@@ -2,7 +2,7 @@
 title: Code clean de Robert C. Martin
 description: 
 published: true
-date: 2023-05-31T17:01:42.128Z
+date: 2023-05-31T18:41:31.590Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T15:34:47.996Z
@@ -26,6 +26,7 @@ Le code correspond au niveau de détail max de la spécification.
 "Le bon code à une importance"
 Surtout concernant les moyens / gros projets, pour lesquelles le mauvais code s'acumulant peut noyer les devs de bugs et de maintenance interminable allant jusqu'a tuer le projet.
 > "Plus tard signifie jamais", Loi de LeBlanc
+
 Stoped at : "Coût total d'un désordre", page 29
 # À approfondir:
 - Architecture logicielle
