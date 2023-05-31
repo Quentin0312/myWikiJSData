@@ -1,8 +1,8 @@
 ---
-title: Notes - Code clean de Robert C. Martin
+title: Code clean de Robert C. Martin
 description: 
 published: true
-date: 2023-05-31T16:16:33.021Z
+date: 2023-05-31T17:01:42.128Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T15:34:47.996Z
