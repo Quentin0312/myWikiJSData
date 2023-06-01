@@ -2,7 +2,7 @@
 title: SQLAlchemy
 description: 
 published: true
-date: 2023-06-01T16:56:39.624Z
+date: 2023-06-01T16:57:48.756Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-01T16:56:39.624Z
@@ -43,4 +43,27 @@ engine = create_engine(
 )
 session = sessionmaker(bind=engine)
 session = session()
+```
+
+# Créer les models
+## Exemples:
+```python
+from sqlalchemy.orm import DeclarativeBase
+from sqlalchemy import Integer, Column, String
+
+
+class Base(DeclarativeBase):
+    pass
+
+
+class Employee(Base):
+    __tablename__ = "employee"
+
+    id = Column(Integer, primary_key=True)
+    first_name = Column(String)
+    last_name = Column(String)
+    gender = Column(String)
+    phone = Column(String)
+    email_pro = Column(String)
+    email_perso = Column(String)
 ```
