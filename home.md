@@ -2,7 +2,7 @@
 title: Welcome
 description: 
 published: true
-date: 2023-06-01T15:57:45.429Z
+date: 2023-06-01T16:08:51.284Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-04T16:47:24.454Z
@@ -16,4 +16,5 @@ TODO:
 - [ ] Faire une page SQLAlchemy
 - [ ] Faire une page pandas
 - [ ] Ranger github
+- [ ] Faire un repo sample
 - [ ] Ranger wikijs
