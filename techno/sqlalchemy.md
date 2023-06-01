@@ -2,7 +2,7 @@
 title: SQLAlchemy
 description: 
 published: true
-date: 2023-06-01T16:57:48.756Z
+date: 2023-06-01T17:05:41.910Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-01T16:56:39.624Z
@@ -60,10 +60,14 @@ class Employee(Base):
     __tablename__ = "employee"
 
     id = Column(Integer, primary_key=True)
-    first_name = Column(String)
-    last_name = Column(String)
-    gender = Column(String)
-    phone = Column(String)
-    email_pro = Column(String)
-    email_perso = Column(String)
+    simple_text = Column(String, nullable=True)
+    fkey= Column(Integer, ForeignKey('models.id'))
+    unicity_constraint = Column(String, unique=True)
 ```
+
+# Syntaxe ORM
+# TODO:
+code copié peut être mis dans un repo sample
+le + important =>
+creation des classes (elts spécifiques ex:lien identifiant)
+syntaxe de l'orm
