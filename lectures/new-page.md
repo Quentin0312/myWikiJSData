@@ -2,7 +2,7 @@
 title: Programmayion fonctionellle
 description: 
 published: true
-date: 2023-06-08T18:28:33.694Z
+date: 2023-06-08T18:30:17.625Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
