@@ -2,7 +2,7 @@
 title: Programmayion fonctionellle
 description: 
 published: true
-date: 2023-06-08T18:25:54.986Z
+date: 2023-06-08T18:28:33.694Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -120,6 +120,12 @@ exemple de ce que contient chaque couche:
 2. Calculs (salaires, etc...)
 3. ??
 
+Récap 5 skills:
+1. Be able to discriminate between actions, calculations and data
+2. Work effectively with immutable values
+3. Higherorder calculations and actions
+4. Data modelling
+5. Functional architecture
 # Autres
 Paradigmes
 Autres paradigms que programmation fonctionnelle et orienté objet ?
