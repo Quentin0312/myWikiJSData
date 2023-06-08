@@ -2,7 +2,7 @@
 title: Programmayion fonctionellle
 description: 
 published: true
-date: 2023-06-08T17:54:44.913Z
+date: 2023-06-08T17:59:48.312Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -72,11 +72,17 @@ math(), filter() and reduce exemple of higherorder functions
 
 # Data modeling (skill 4)
 
+Data modeling is all about, how do you effectively structure the data that you have so that you can use it effectively
+
+Tw0 kind	
+- Public facing data that exit the server (ex: API) (different constrains because for ex needs to be human readable for dev to use your api)
+
+- Internal data modeling (constraint ex: efficient, available, ...)
 
 # Autres
 Paradigmes
 Approfondir le terme effets de bords 
-Réécouter - Work effectively with immutable values -Higherorder calculations and actions
+Réécouter - Work effectively with immutable values - Higherorder calculations and actions - Data modeling
 Demander explication à chatgpt (exemple concret à concept abstrait)
 
 # Autres ressources cités
