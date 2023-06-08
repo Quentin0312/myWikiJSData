@@ -2,7 +2,7 @@
 title: Programmayion fonctionellle
 description: 
 published: true
-date: 2023-06-08T17:26:51.760Z
+date: 2023-06-08T17:30:16.652Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -45,6 +45,9 @@ exemple => ??
 DATA => stocker les infos dans des variables. (et autres => signal,... ??)
 
 # Work effectively with immutable values
+immutable values => valeurs immuable (qui ne change pas)
+=> être capable de travailler avec des valeurs qui ne change pas
+==>
 
 
 
@@ -56,3 +59,4 @@ DATA => stocker les infos dans des variables. (et autres => signal,... ??)
 # Autres
 Paradigmes
 Approfondir le terme effets de bords 
+Réécouter - Work effectively with immutable values
