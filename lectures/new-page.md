@@ -2,7 +2,7 @@
 title: Programmayion fonctionellle
 description: 
 published: true
-date: 2023-06-08T18:01:56.161Z
+date: 2023-06-08T18:02:34.176Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -89,7 +89,7 @@ Tw0 kind
 
 # Autres
 Paradigmes
-Approfondir le terme effets de bords 
+Approfondir le terme effets de bords; Architecture skills
 Réécouter - Work effectively with immutable values - Higherorder calculations and actions - Data modeling
 Demander explication à chatgpt (exemple concret à concept abstrait)
 
