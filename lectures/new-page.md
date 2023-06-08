@@ -2,7 +2,7 @@
 title: Programmayion fonctionellle
 description: 
 published: true
-date: 2023-06-08T18:25:01.154Z
+date: 2023-06-08T18:25:54.986Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -112,7 +112,7 @@ like the fact that employee get salary, vacation (no matter how much)
 
 2. Business rule layer can also change but least rapidly (ex: vacation policy, salary)
 
-3. Domain model change least than the others
+3. Domain model change least than the others (voir pas du tout, ou change que dans cas exceptionel)
 
 exemple de ce que contient chaque couche:
 
