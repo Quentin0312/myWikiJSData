@@ -2,7 +2,7 @@
 title: Programmayion fonctionellle
 description: 
 published: true
-date: 2023-06-08T18:04:46.459Z
+date: 2023-06-08T18:10:47.182Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -81,6 +81,15 @@ Tw0 kind
 
 5. Architecture skills (skills 5)
 design and architectural principles needed (functional programing have some (diff de celles des autres paradigms))
+ex of architectural patterns is the reactive data , reactive architecture
+(Redux, Elm Architecture, re-frame in ClojureScript, ...)
+=> the idea is :
+- events generated
+- events consumed
+That generates a view that is projected out into like a GUI
+
+modified state generates a projection onto the GUI
+reaction based on changes to the data
 
 
 
@@ -91,6 +100,7 @@ design and architectural principles needed (functional programing have some (dif
 # Autres
 Paradigmes
 Autres paradigms que programmation fonctionnelle et orienté objet ?
+(Redux, Elm Architecture, re-frame in ClojureScript)
 Approfondir le terme effets de bords; Architecture skills
 Réécouter - Work effectively with immutable values - Higherorder calculations and actions - Data modeling
 Demander explication à chatgpt (exemple concret à concept abstrait)
