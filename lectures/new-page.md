@@ -2,7 +2,7 @@
 title: Programmayion fonctionellle
 description: 
 published: true
-date: 2023-06-08T18:02:34.176Z
+date: 2023-06-08T18:04:46.459Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -80,6 +80,7 @@ Tw0 kind
 - Internal data modeling (constraint ex: efficient, available, ...)
 
 5. Architecture skills (skills 5)
+design and architectural principles needed (functional programing have some (diff de celles des autres paradigms))
 
 
 
@@ -89,6 +90,7 @@ Tw0 kind
 
 # Autres
 Paradigmes
+Autres paradigms que programmation fonctionnelle et orienté objet ?
 Approfondir le terme effets de bords; Architecture skills
 Réécouter - Work effectively with immutable values - Higherorder calculations and actions - Data modeling
 Demander explication à chatgpt (exemple concret à concept abstrait)
