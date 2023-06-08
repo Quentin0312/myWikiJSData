@@ -2,7 +2,7 @@
 title: Programmayion fonctionellle
 description: 
 published: true
-date: 2023-06-08T17:46:19.620Z
+date: 2023-06-08T17:49:45.253Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -69,7 +69,7 @@ Means => calculations and actions that can be traited like any other value
   => take an action and make it indempotant
   if operating at higher order level
  
-math(), filter() and reduce exemple of higherorder calculations ?
+math(), filter() and reduce exemple of higherorder functions
 
 
 
@@ -77,4 +77,4 @@ math(), filter() and reduce exemple of higherorder calculations ?
 Paradigmes
 Approfondir le terme effets de bords 
 Réécouter - Work effectively with immutable values -Higherorder calculations and actions
-Demander explication à chatgpt
+Demander explication à chatgpt (exemple concret à concept abstrait)
