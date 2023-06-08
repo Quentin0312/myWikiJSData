@@ -2,7 +2,7 @@
 title: Programmayion fonctionellle
 description: 
 published: true
-date: 2023-06-08T17:49:45.253Z
+date: 2023-06-08T17:53:30.158Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -12,7 +12,6 @@ dateCreated: 2023-06-08T17:04:46.278Z
 Vidéo: https://www.youtube.com/watch?v=LEcYw9_NxhQ&ab_channel=EricNormand
 
 # Intro
-Son livre => Grokking Simplicity, Eric Normand
 
 Ne veut pas donner de définition de ce qu'est la programmation fonctionelle mais donner les skills 
 des "programmeurs fonctionelles" (ce qu'il font de mieux)
@@ -78,3 +77,8 @@ Paradigmes
 Approfondir le terme effets de bords 
 Réécouter - Work effectively with immutable values -Higherorder calculations and actions
 Demander explication à chatgpt (exemple concret à concept abstrait)
+
+# Autres ressources
+Son livre => Grokking Simplicity, Eric Normand
+
+Structure and Interpretation of Computer Programs, JavaScript Edition (2022)
