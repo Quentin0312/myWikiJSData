@@ -2,7 +2,7 @@
 title: Programmayion fonctionellle
 description: 
 published: true
-date: 2023-06-08T18:14:59.505Z
+date: 2023-06-08T18:20:01.642Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -95,8 +95,17 @@ Another architecure pattern => Onion architecture
 3 main layers (comme des couches d'un oignon)
 1. Interaction layer (outer layer)
 talks to the "outside worlds"; where to put the ACTIONS
-2. Business rule later (calculation layer) CALCULATION
-3. Domain layer (domain model) DATA ?
+2. Business rule layer (calculation layer) CALCULATIONS
+3. Domain layer (domain model) DATA ? => NON
+
+Exemple donnée:
+2. Business rule layer
+contains changing requirements of business
+like how payroll is calculated ; vacation policy
+3. Domain layer, domain model
+Timeless domain layer that the business rule call into
+like the fact that employee get salary, vacation (no matter how much) 
+
 
 
 
