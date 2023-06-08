@@ -2,7 +2,7 @@
 title: Programmayion fonctionellle
 description: 
 published: true
-date: 2023-06-08T17:59:48.312Z
+date: 2023-06-08T18:01:56.161Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -78,6 +78,14 @@ Tw0 kind
 - Public facing data that exit the server (ex: API) (different constrains because for ex needs to be human readable for dev to use your api)
 
 - Internal data modeling (constraint ex: efficient, available, ...)
+
+5. Architecture skills (skills 5)
+
+
+
+
+
+
 
 # Autres
 Paradigmes
