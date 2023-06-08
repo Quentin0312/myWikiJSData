@@ -2,7 +2,7 @@
 title: Programmayion fonctionellle
 description: 
 published: true
-date: 2023-06-08T17:30:16.652Z
+date: 2023-06-08T17:37:17.512Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -27,7 +27,7 @@ You can use fonctional programming skills with other paradigms skills (take the 
 {.is-info}
 
 Les 5 skills principaux:
-1. Be able to discriminate between actions, calculations and data
+1. Be able to discriminate between actions, calculations and data (skill 1)
 
 Doit pouvoir en regardant le code faire la différence (ça c'est du calcul, ça effets de bords, ...)
 
@@ -46,11 +46,16 @@ DATA => stocker les infos dans des variables. (et autres => signal,... ??)
 
 # Work effectively with immutable values
 immutable values => valeurs immuable (qui ne change pas)
-=> être capable de travailler avec des valeurs qui ne change pas
-==>
+=> être capable de travailler avec des valeurs immuable, qui ne change pas (skill 2)
+==> means ??
 
+Bigger chalenges => with nested data, change something that is deep in nested structure
 
+# Higherorder calculations and actions
 
+"Using and creating Higherorder calculations and actions" (skill 3)
+
+Calculs et actions d'ordre supérieurs
 
 
 
@@ -59,4 +64,5 @@ immutable values => valeurs immuable (qui ne change pas)
 # Autres
 Paradigmes
 Approfondir le terme effets de bords 
-Réécouter - Work effectively with immutable values
+Réécouter - Work effectively with immutable values -Higherorder calculations and actions
+Demander explication à chatgpt
