@@ -2,7 +2,7 @@
 title: Programmayion fonctionellle
 description: 
 published: true
-date: 2023-06-08T17:23:42.941Z
+date: 2023-06-08T17:26:51.760Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -38,6 +38,14 @@ exemple => ??
 
 ACTIONS/EFFETS DE BORDS => Peux changer selon l'endroit de l'éxécution ; ("impure functions")
 exemple => ??
+
+> En general, il est mieux d'avoir le moins de code "ACTIONS/EFFETS DE BORDS" et necessite plus d'attention que les "COMPUTE/CALCULATIONS" pcq => ?? (plus sensibles ?! vu que pas la même reponse selon lieux d'exec)
+{.is-info}
+
+DATA => stocker les infos dans des variables. (et autres => signal,... ??)
+
+# Work effectively with immutable values
+
 
 
 
