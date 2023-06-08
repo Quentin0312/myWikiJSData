@@ -2,7 +2,7 @@
 title: Programmayion fonctionellle
 description: 
 published: true
-date: 2023-06-08T18:10:47.182Z
+date: 2023-06-08T18:14:59.505Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -91,6 +91,12 @@ That generates a view that is projected out into like a GUI
 modified state generates a projection onto the GUI
 reaction based on changes to the data
 
+Another architecure pattern => Onion architecture
+3 main layers (comme des couches d'un oignon)
+1. Interaction layer (outer layer)
+talks to the "outside worlds"; where to put the ACTIONS
+2. Business rule later (calculation layer) CALCULATION
+3. Domain layer (domain model) DATA ?
 
 
 
@@ -108,4 +114,4 @@ Demander explication à chatgpt (exemple concret à concept abstrait)
 # Autres ressources cités
 Son livre => Grokking Simplicity, Eric Normand
 
-Structure and Interpretation of Computer Programs, JavaScript Edition (2022)
+Structure and Interpretation of Computer Programs, JavaScript Edition (2022) 
