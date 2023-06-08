@@ -2,7 +2,7 @@
 title: Programmayion fonctionellle
 description: 
 published: true
-date: 2023-06-08T17:37:17.512Z
+date: 2023-06-08T17:46:19.620Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -55,9 +55,21 @@ Bigger chalenges => with nested data, change something that is deep in nested st
 
 "Using and creating Higherorder calculations and actions" (skill 3)
 
+En réalité correspond à 4 skills Using / creating calculations / actions
+
 Calculs et actions d'ordre supérieurs
 
-
+Higherorder calculations and actions
+Means => calculations and actions that can be traited like any other value
+	=> can be passed to functions as arguments
+  => you can return them from functions ??
+  => can be store in variable
+  => ...
+  => "pass behavior to another function"
+  => take an action and make it indempotant
+  if operating at higher order level
+ 
+math(), filter() and reduce exemple of higherorder calculations ?
 
 
 
