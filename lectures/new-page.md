@@ -2,7 +2,7 @@
 title: Programmayion fonctionellle
 description: 
 published: true
-date: 2023-06-08T18:20:01.642Z
+date: 2023-06-08T18:23:57.678Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -107,9 +107,12 @@ Timeless domain layer that the business rule call into
 like the fact that employee get salary, vacation (no matter how much) 
 
 
+# Fast changing layer
+1. Interaction layer (fastest to be change) ex: version change of external API used imply modification
 
+2. Business rule layer can also change but least rapidly (ex: vacation policy, salary)
 
-
+3. Domain model change least than the others
 
 
 # Autres
