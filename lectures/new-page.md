@@ -2,7 +2,7 @@
 title: Programmayion fonctionellle
 description: 
 published: true
-date: 2023-06-08T18:23:57.678Z
+date: 2023-06-08T18:25:01.154Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -114,6 +114,11 @@ like the fact that employee get salary, vacation (no matter how much)
 
 3. Domain model change least than the others
 
+exemple de ce que contient chaque couche:
+
+1. Com avec l'ext => fetch ; aussi ce qui est display ?
+2. Calculs (salaires, etc...)
+3. ??
 
 # Autres
 Paradigmes
