@@ -2,7 +2,7 @@
 title: Programmayion fonctionellle
 description: 
 published: true
-date: 2023-06-08T17:53:30.158Z
+date: 2023-06-08T17:54:44.913Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -70,6 +70,7 @@ Means => calculations and actions that can be traited like any other value
  
 math(), filter() and reduce exemple of higherorder functions
 
+# Data modeling (skill 4)
 
 
 # Autres
@@ -78,7 +79,7 @@ Approfondir le terme effets de bords
 Réécouter - Work effectively with immutable values -Higherorder calculations and actions
 Demander explication à chatgpt (exemple concret à concept abstrait)
 
-# Autres ressources
+# Autres ressources cités
 Son livre => Grokking Simplicity, Eric Normand
 
 Structure and Interpretation of Computer Programs, JavaScript Edition (2022)
