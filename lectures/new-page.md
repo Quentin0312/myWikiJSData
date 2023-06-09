@@ -2,7 +2,7 @@
 title: Programmation fonctionnelle
 description: 
 published: true
-date: 2023-06-09T07:49:25.562Z
+date: 2023-06-09T07:57:41.819Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -10,6 +10,13 @@ dateCreated: 2023-06-08T17:04:46.278Z
 
 # Notes
 Vidéo: https://www.youtube.com/watch?v=LEcYw9_NxhQ&ab_channel=EricNormand
+
+# Plus important à retenir
+- Skill le plus important => Savoir faire la diff en fct pure et impure
+- Savoir reconnaitre une fonction d'ordre sup
+- La reactivité de solidjs utilise des valeurs immuables (nouvelle valeur écrase la précedante)
+
+
 
 # Intro
 Ne veut pas donner de définition de ce qu'est la programmation fonctionelle mais donner les skills 
@@ -264,8 +271,3 @@ Structure and Interpretation of Computer Programs, JavaScript Edition (2022)
 
 
 donnée immuable => store !! valeur pas modifier mais nouveau tableau créeer !
-
-à retenir:
-reactivité de solidjs utiliser des valauers immuables, sinon fonctiobn
-Savoir faire la diff en fct pure et impure
-savoir reconnaitre fonctions d'ordre sup
