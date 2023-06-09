@@ -2,7 +2,7 @@
 title: Programmation fonctionnelle
 description: 
 published: true
-date: 2023-06-09T07:02:26.527Z
+date: 2023-06-09T07:43:34.696Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -259,4 +259,12 @@ Demander explication à chatgpt (exemple concret à concept abstrait)
 # Autres ressources cités
 Son livre => Grokking Simplicity, Eric Normand
 
-Structure and Interpretation of Computer Programs, JavaScript Edition (2022) 
+Structure and Interpretation of Computer Programs, JavaScript Edition (2022)
+
+
+
+donnée immuable => store !! valeur pas modifier mais nouveau tableau créeer !
+
+à retenir:
+Savoir faire la diff en fct pure et impure
+savoir reconnaitre fonctions d'ordre sup
