@@ -2,7 +2,7 @@
 title: Programmation fonctionnelle
 description: 
 published: true
-date: 2023-06-09T06:33:09.310Z
+date: 2023-06-09T06:36:49.039Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -137,7 +137,7 @@ et mise en comparaison avec la programmation orienté objet
 
 Ces 5 skills peuvent être utilisé avec d'autres paradigms
 
-# Skill 1 (la plus importante selon lui)
+# Skill 1 (le plus important selon lui)
 "Discrimate between actions, calculations and data"
 > Faire la distinction entre les calculs, les effets de bords et la data.
 {.is-success}
@@ -161,10 +161,16 @@ Enregistrer des informations dans des variables par exemples
 {.is-info}
 
 # Skill 2
+"Work effectively with immutable values"
+> Être capable de travailler efficacement avec des valeurs immuable (qui ne change pas)
+{.is-success}
+
+C'est compliqué d'apporter des modifications sur des éléments qui sont "deep in nested structures" (répercussions en chaînes)
 
 # Pour la réstitution
 À appronfondir:
 Comment définir effets de bords ou calculs
+(skill 2)
 
 # Autres
 Paradigmes
