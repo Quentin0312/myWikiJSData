@@ -2,7 +2,7 @@
 title: Programmation fonctionnelle
 description: 
 published: true
-date: 2023-06-09T06:08:39.088Z
+date: 2023-06-09T06:12:14.996Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -136,6 +136,13 @@ PF décrit comme étant un paradigme de programmation
 et mise en comparaison avec la programmation orienté objet
 
 Ces 5 skills peuvent être utilisé avec d'autres paradigms
+
+# Skill 1
+"Discrimate between actions, calculations and data"
+
+Faire la distinction entre les calculs, les effets de bords et la data.
+
+- Calculs
 
 # Autres
 Paradigmes
