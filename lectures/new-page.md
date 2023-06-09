@@ -2,7 +2,7 @@
 title: Programmation fonctionnelle
 description: 
 published: true
-date: 2023-06-09T06:19:29.423Z
+date: 2023-06-09T06:22:24.030Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -150,9 +150,9 @@ Appelées "pure fonctions".
 
 - Effets de bord (actions)
 Fonctions (ou autres ? (elt) ) non idempotent
+ex: 
 
-
-Appelées "impure fonctions"
+Appelées "impure fonctions, functions with side-effects" "fonctions avec des effets de bords"
 
 
 # Autres
