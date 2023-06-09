@@ -1,8 +1,8 @@
 ---
-title: Programmayion fonctionellle
+title: Programmation fonctionnelle
 description: 
 published: true
-date: 2023-06-08T18:30:17.625Z
+date: 2023-06-09T05:59:29.822Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
