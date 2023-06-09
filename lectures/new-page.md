@@ -2,7 +2,7 @@
 title: Programmation fonctionnelle
 description: 
 published: true
-date: 2023-06-09T06:49:02.874Z
+date: 2023-06-09T07:00:17.612Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -185,6 +185,30 @@ Exemples données de fonctions d'ordre supérieur => map(), filter(), reduce()
 > Modélisatoin des données
 {.is-success}
 
+Structurer efficacement les données pour les utiliser de façon optimale
+
+2 Types de données:
+- "Public facing data"
+ex: API
+Contraintes spécifique: "human readable", utilisable par d'autres dév
+
+- Internal data
+Contraintes: efficace, disponible, ...
+
+# Skill 5
+"Architecture skills"
+> Architecture skills
+{.is-success}
+
+Corrrespond à l'abilité à comprendre et mettre en place des principes architecturaux, les patterns et les bests practices
+
+Principes d'architecture necessaire.
+
+Ex de pattern d'architecure reactive architecture (Redux, Elm architecture, re-frame)
+
+Dont l'idée principal est => des events sont générés puis consommées.
+
+Générant ainsi des view.
 
 # Pour la réstitution
 À appronfondir:
