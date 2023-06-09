@@ -2,7 +2,7 @@
 title: Programmation fonctionnelle
 description: 
 published: true
-date: 2023-06-09T06:29:13.979Z
+date: 2023-06-09T06:30:24.780Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -144,7 +144,7 @@ Faire la distinction entre les calculs, les effets de bords et la data.
 
 - Calculs
 Fonctions idempotentes
-=> Retourne le même résultat avec les même arguments, indépendamment de l'endroit de l'execution ou du "contexte"
+=> Retourne le même résultat avec les même arguments, indépendamment de l'endroit de l'execution ou du "contexte" ou du nombre d'éxecution.
 
 Appelées "pure fonctions".
 
@@ -154,7 +154,8 @@ cad ??
 
 Appelées "impure fonctions, functions with side-effects => fonctions avec des effets de bords"
 
-
+- Data
+Enregistrer des informations dans des variables par exemples
 
 # Pour la réstitution
 À appronfondir:
