@@ -2,7 +2,7 @@
 title: Programmation fonctionnelle
 description: 
 published: true
-date: 2023-06-09T06:29:08.190Z
+date: 2023-06-09T06:29:13.979Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -159,6 +159,7 @@ Appelées "impure fonctions, functions with side-effects => fonctions avec des e
 # Pour la réstitution
 À appronfondir:
 Comment définir effets de bords ou calculs
+
 # Autres
 Paradigmes
 Autres paradigms que programmation fonctionnelle et orienté objet ?
