@@ -2,7 +2,7 @@
 title: Programmation fonctionnelle
 description: 
 published: true
-date: 2023-06-09T07:43:34.696Z
+date: 2023-06-09T07:49:25.562Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -266,5 +266,6 @@ Structure and Interpretation of Computer Programs, JavaScript Edition (2022)
 donnée immuable => store !! valeur pas modifier mais nouveau tableau créeer !
 
 à retenir:
+reactivité de solidjs utiliser des valauers immuables, sinon fonctiobn
 Savoir faire la diff en fct pure et impure
 savoir reconnaitre fonctions d'ordre sup
