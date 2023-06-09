@@ -2,7 +2,7 @@
 title: Programmation fonctionnelle
 description: 
 published: true
-date: 2023-06-09T07:01:56.452Z
+date: 2023-06-09T07:02:26.527Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -228,6 +228,20 @@ like how payroll is calculated ; vacation policy
 3. Domain layer, domain model
 Timeless domain layer that the business rule call into
 like the fact that employee get salary, vacation (no matter how much)
+
+Fast changing layer
+
+Interaction layer (fastest to be change) ex: version change of external API used imply modification
+Business rule layer can also change but least rapidly (ex: vacation policy, salary)
+Domain model change least than the others (voir pas du tout, ou change que dans cas exceptionel)
+
+Récap 5 skills:
+
+Be able to discriminate between actions, calculations and data
+Work effectively with immutable values
+Higherorder calculations and actions
+Data modelling
+Functional architecture
 
 # Pour la réstitution
 À appronfondir:
