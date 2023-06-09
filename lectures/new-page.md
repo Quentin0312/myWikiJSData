@@ -2,7 +2,7 @@
 title: Programmation fonctionnelle
 description: 
 published: true
-date: 2023-06-09T06:46:12.468Z
+date: 2023-06-09T06:49:02.874Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -178,7 +178,12 @@ fonctions qui peuvent êtres traités comme n'importe qu'elle autre valeurs
 => peut être retourné par une fonction
 => peut être stocké dans une variable
 
+Exemples données de fonctions d'ordre supérieur => map(), filter(), reduce()
 
+# Skill 4
+"Data modeling"
+> Modélisatoin des données
+{.is-success}
 
 
 # Pour la réstitution
