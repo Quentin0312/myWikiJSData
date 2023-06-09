@@ -2,7 +2,7 @@
 title: Programmation fonctionnelle
 description: 
 published: true
-date: 2023-06-09T06:19:11.118Z
+date: 2023-06-09T06:19:29.423Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -149,7 +149,7 @@ Fonctions idempotentes
 Appelées "pure fonctions".
 
 - Effets de bord (actions)
-Fonctions (ou autres ?) non idempotent
+Fonctions (ou autres ? (elt) ) non idempotent
 
 
 Appelées "impure fonctions"
