@@ -2,7 +2,7 @@
 title: Programmation fonctionnelle
 description: 
 published: true
-date: 2023-06-09T05:59:29.822Z
+date: 2023-06-09T06:08:39.088Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -12,7 +12,6 @@ dateCreated: 2023-06-08T17:04:46.278Z
 Vidéo: https://www.youtube.com/watch?v=LEcYw9_NxhQ&ab_channel=EricNormand
 
 # Intro
-
 Ne veut pas donner de définition de ce qu'est la programmation fonctionelle mais donner les skills 
 des "programmeurs fonctionelles" (ce qu'il font de mieux)
 
@@ -126,6 +125,18 @@ Récap 5 skills:
 3. Higherorder calculations and actions
 4. Data modelling
 5. Functional architecture
+
+# Réstitution
+Programmation fonctionnelle => PF
+## Intro
+Donne pas de définition de la programmation fonctionnelle 
+mais plutôt 5 skills que doit posséder un dev faisant de la programmation fonctionnelle
+
+PF décrit comme étant un paradigme de programmation
+et mise en comparaison avec la programmation orienté objet
+
+Ces 5 skills peuvent être utilisé avec d'autres paradigms
+
 # Autres
 Paradigmes
 Autres paradigms que programmation fonctionnelle et orienté objet ?
