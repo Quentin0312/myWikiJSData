@@ -2,7 +2,7 @@
 title: Programmation fonctionnelle
 description: 
 published: true
-date: 2023-06-09T07:57:41.819Z
+date: 2023-06-09T09:01:57.265Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
