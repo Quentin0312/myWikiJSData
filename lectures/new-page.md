@@ -2,7 +2,7 @@
 title: Programmation fonctionnelle
 description: 
 published: true
-date: 2023-06-09T06:15:18.262Z
+date: 2023-06-09T06:19:11.118Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -137,14 +137,23 @@ et mise en comparaison avec la programmation orienté objet
 
 Ces 5 skills peuvent être utilisé avec d'autres paradigms
 
-# Skill 1
+# Skill 1 (la plus importante selon lui)
 "Discrimate between actions, calculations and data"
 
 Faire la distinction entre les calculs, les effets de bords et la data.
 
 - Calculs
-Fonctions indempotentes
+Fonctions idempotentes
 => Retourne le même résultat avec les même arguments, indépendamment de l'endroit de l'execution ou du "contexte"
+
+Appelées "pure fonctions".
+
+- Effets de bord (actions)
+Fonctions (ou autres ?) non idempotent
+
+
+Appelées "impure fonctions"
+
 
 # Autres
 Paradigmes
