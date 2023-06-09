@@ -2,7 +2,7 @@
 title: Programmation fonctionnelle
 description: 
 published: true
-date: 2023-06-09T07:00:17.612Z
+date: 2023-06-09T07:01:56.452Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -208,7 +208,26 @@ Ex de pattern d'architecure reactive architecture (Redux, Elm architecture, re-f
 
 Dont l'idée principal est => des events sont générés puis consommées.
 
-Générant ainsi des view.
+Générant ainsi des views.
+
+reaction (réactivité) basé sur les changement de la data
+
+Autre pattern d'architecture: Onion archirecture
+
+Another architecure pattern => Onion architecture
+3 main layers (comme des couches d'un oignon)
+
+Interaction layer (outer layer)
+talks to the "outside worlds"; where to put the ACTIONS
+Business rule layer (calculation layer) CALCULATIONS
+Domain layer (domain model) DATA ? => NON
+Exemple donnée:
+2. Business rule layer
+contains changing requirements of business
+like how payroll is calculated ; vacation policy
+3. Domain layer, domain model
+Timeless domain layer that the business rule call into
+like the fact that employee get salary, vacation (no matter how much)
 
 # Pour la réstitution
 À appronfondir:
