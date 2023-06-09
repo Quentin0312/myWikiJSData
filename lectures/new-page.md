@@ -2,7 +2,7 @@
 title: Programmation fonctionnelle
 description: 
 published: true
-date: 2023-06-09T06:12:14.996Z
+date: 2023-06-09T06:15:18.262Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -143,6 +143,8 @@ Ces 5 skills peuvent être utilisé avec d'autres paradigms
 Faire la distinction entre les calculs, les effets de bords et la data.
 
 - Calculs
+Fonctions indempotentes
+=> Retourne le même résultat avec les même arguments, indépendamment de l'endroit de l'execution ou du "contexte"
 
 # Autres
 Paradigmes
