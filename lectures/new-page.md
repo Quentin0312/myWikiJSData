@@ -2,7 +2,7 @@
 title: Programmation fonctionnelle
 description: 
 published: true
-date: 2023-06-09T06:30:24.780Z
+date: 2023-06-09T06:33:09.310Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -139,8 +139,8 @@ Ces 5 skills peuvent être utilisé avec d'autres paradigms
 
 # Skill 1 (la plus importante selon lui)
 "Discrimate between actions, calculations and data"
-
-Faire la distinction entre les calculs, les effets de bords et la data.
+> Faire la distinction entre les calculs, les effets de bords et la data.
+{.is-success}
 
 - Calculs
 Fonctions idempotentes
@@ -156,6 +156,11 @@ Appelées "impure fonctions, functions with side-effects => fonctions avec des e
 
 - Data
 Enregistrer des informations dans des variables par exemples
+
+> Il précise qu'en général il faut avoir le moins de code possible qui correspond à des effets de bords pcq ça créer de la complexité
+{.is-info}
+
+# Skill 2
 
 # Pour la réstitution
 À appronfondir:
