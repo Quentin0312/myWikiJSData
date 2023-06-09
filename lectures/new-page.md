@@ -2,7 +2,7 @@
 title: Programmation fonctionnelle
 description: 
 published: true
-date: 2023-06-09T06:36:49.039Z
+date: 2023-06-09T06:46:12.468Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T17:04:46.278Z
@@ -166,6 +166,20 @@ Enregistrer des informations dans des variables par exemples
 {.is-success}
 
 C'est compliqué d'apporter des modifications sur des éléments qui sont "deep in nested structures" (répercussions en chaînes)
+
+# Skill 3
+"Using and creating Higherorder calculations and actions"
+> Créer et utilisé des calculs et actions (effets de bords) d'ordre supérieurs
+{.is-success}
+
+Calculs et actions d'ordres supérieurs signifie
+fonctions qui peuvent êtres traités comme n'importe qu'elle autre valeurs
+=> peut être passé comme argument d'une fonction
+=> peut être retourné par une fonction
+=> peut être stocké dans une variable
+
+
+
 
 # Pour la réstitution
 À appronfondir:
